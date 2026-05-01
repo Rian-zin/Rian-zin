@@ -20,9 +20,9 @@ Atualmente, venho trabalhando em projetos pessoais que me ajudam a consolidar co
 - Evolução contínua através de código
 
 ### Atualmente
-- 🚧 Desenvolvendo projetos pessoais
-- 📚 Aprofundando conhecimentos em programação
-- ⚙️ Buscando melhorar estrutura, organização e boas práticas de código
+-  Desenvolvendo projetos pessoais
+-  Aprofundando conhecimentos em programação
+-  Buscando melhorar estrutura, organização e boas práticas de código
 
 ### Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/rian-silva-dev/)
