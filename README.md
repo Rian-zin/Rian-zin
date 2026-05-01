@@ -1,9 +1,9 @@
 ## Olá, eu sou o Rian! 👋
 
-Sou estudante de Sistemas de Informação e apaixonado por tecnologia.
+Sou estudante de Sistemas de Informação com foco em desenvolvimento de software.  
+Tenho interesse em construir soluções práticas, escrever código limpo e evoluir constantemente como desenvolvedor.
 
-Gosto de criar soluções, aprender coisas novas e evoluir com cada projeto que faço.  
-Nos meus estudos e projetos pessoais, venho focando em desenvolver uma base sólida como programador e ampliar minha experiência com desenvolvimento de software.
+Atualmente, venho trabalhando em projetos pessoais que me ajudam a consolidar conhecimentos e ganhar experiência real com desenvolvimento.
 
 ### Tech Stack
 <p align="left">
@@ -14,8 +14,15 @@ Nos meus estudos e projetos pessoais, venho focando em desenvolver uma base sól
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-### Sobre mim
-- 🎓 Estudante de Sistemas de Informação
-- 💻 Focado em Python e desenvolvimento back-end
-- 📚 Aprendendo e evoluindo constantemente
-- 🚀 Construindo projetos pessoais para ganhar experiência prática
+### O que você vai encontrar aqui
+- Projetos práticos focados em lógica e desenvolvimento
+- Experimentos e estudos aplicados
+- Evolução contínua através de código
+
+### Atualmente
+- 🚧 Desenvolvendo projetos pessoais
+- 📚 Aprofundando conhecimentos em programação
+- ⚙️ Buscando melhorar estrutura, organização e boas práticas de código
+
+### Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/rian-silva-dev/)
