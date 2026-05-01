@@ -1,16 +1,21 @@
-### Olá, eu sou o Rian! 👋
+## Olá, eu sou o Rian! 👋
 
-Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia. Atualmente estou focado em construir minha base em lógica de programação e desenvolvimento de software.
+Sou estudante de Sistemas de Informação e apaixonado por tecnologia.
 
-- 🔭 Atualmente estou trabalhando no projeto **Dragon Slayer RPG**.
-- 🌱 Estou estudando **Python** e **Estrutura de Dados**.
-- ⚡ Curiosidade: Eu crio jogos no terminal para aprender a programar.
+Gosto de criar soluções, aprender coisas novas e evoluir com cada projeto que faço.  
+Nos meus estudos e projetos pessoais, venho focando em desenvolver uma base sólida como programador e ampliar minha experiência com desenvolvimento de software.
 
----
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
-### 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rian-silva-dev/))
+### Sobre mim
+- 🎓 Estudante de Sistemas de Informação
+- 💻 Focado em Python e desenvolvimento back-end
+- 📚 Aprendendo e evoluindo constantemente
+- 🚀 Construindo projetos pessoais para ganhar experiência prática
