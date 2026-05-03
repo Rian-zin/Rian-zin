@@ -14,11 +14,6 @@ Atualmente, venho trabalhando em projetos pessoais que me ajudam a consolidar co
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-### O que você vai encontrar aqui
-- Projetos práticos focados em lógica e desenvolvimento
-- Experimentos e estudos aplicados
-- Evolução contínua através de código
-
 ### Atualmente
 -  Desenvolvendo projetos pessoais
 -  Aprofundando conhecimentos em programação
